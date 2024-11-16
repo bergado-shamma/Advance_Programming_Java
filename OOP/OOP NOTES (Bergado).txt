@@ -1,0 +1,24 @@
+Procedural Programming
+-Writing procedures or methods that perform operations on the data
+
+OOP Programming
+-You create objects that contain data and methods.
+Ex. 
+A book is an object.
+If I said "You read" that is a method
+
+Advantages of OOP:
+- Faster and easier to execute.
+- Provide a clear structure for the programs.
+- Helps to keep the Java code DRY (Don't Repeat Yourself).
+- Make it possible to create fully reusable applications with 
+  less code and shorter development time.
+- Encapsulation, Polymorphism, Abstraction, and Inheritance.
+
+Class | Objects
+_________________
+Fruit | Apple
+      | Banana
+      | Orange
+
+Class is the template of an object, and object is an instance of it.
